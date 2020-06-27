@@ -16,4 +16,4 @@ How do you see the manuals for a command?
 
 ## Quiz Answer
 
-man
+===man
