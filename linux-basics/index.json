@@ -1,12 +1,12 @@
 {
-    "title": "The Shell",
+    "title": "Clarus Lab",
     "description": "Learn the fundamentals of the command line, navigating files, directories and more.",
     "difficulty": "beginner",
-    "time": "~25 minutes",
+    "time": "30 minutes",
     "details": {
         "intro": {
             "text": "intro.md",
-            "credits": ""
+            "courseData": "courseBase.sh"
         },
         "steps": [
             {
