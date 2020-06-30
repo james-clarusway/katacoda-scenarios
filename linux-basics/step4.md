@@ -14,14 +14,11 @@ There is also one more useful ls flag, -l for long, this shows a detailed list o
 <pre>$ ls -l</pre>
 
 <pre>clarusway@mac:$ ls -l
-total 80
-drwxr-x--- 7 clarusway clarus   4096 Jul 20 15:37   Desktop
-drwxr-x--- 2 clarusway clarus   4096 Jul 19 15:46   Documents
-drwxr-x--- 4 clarusway clarus   4096 Jul 20 05:30   Downloads
-drwxr-x--- 2 clarusway clarus   4096 Jul  7 15:13   Music
-drwxr-x--- 2 clarusway clarus   4096 Jul 27 15:41   Public
-drwxr-x--- 2 clarusway clarus   4096 Jul 27 15:41   Templates
-drwxr-x--- 2 clarusway clarus   4096 Jul 27 15:41   Videos</pre>
+total 16
+-rw-r--r-- 1 root root   13 Jun 28 12:39 clarusway
+drwxr-xr-x 2 root root 4096 Jun 28 12:39 one
+drwxr-xr-x 4 root root 4096 Jun 28 12:39 three
+drwxr-xr-x 5 root root 4096 Jun 28 12:39 two</pre>
 
 Commands have things called flags (or arguments or options, whatever you want to call it) to add more functionality. See how we added -a and -l, well you can add them both together with -la. The order of the flags determines which order it goes in, most of the time this doesn’t really matter so you can also do ls -al and it would still work.
 
@@ -31,10 +28,6 @@ Commands have things called flags (or arguments or options, whatever you want to
 
 Run ls with different flags and see the output you receive.
 
-## Quiz Question
+>>Q4: What command would you use to see hidden files?<<
 
-What command would you use to see hidden files?
-
-## Quiz Answer
-
-===ls -a
+=== ls -a

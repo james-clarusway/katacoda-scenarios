@@ -1,1 +1,0 @@
-You have learned about some common commands in Linux.

@@ -6,7 +6,7 @@ You can rename files like this:
 
 Or you can actually move a file to a different directory: 
 
-<pre>$ mv file2 /home/pete/Documents</pre>
+<pre>$ mv file2 /home/clarusway/Documents</pre>
 
 And move more than one file:
 
@@ -28,10 +28,6 @@ Let’s say you did want to mv a file to overwrite the previous one. You can als
 
 Rename a file, then move that file to a different directory.
 
-## Quiz Question
+>>Q10:How do you rename a file called cat to dog?<<
 
-How do you rename a file called cat to dog?
-
-## Quiz Answer
-
-===mv cat dog
+=== mv cat dog

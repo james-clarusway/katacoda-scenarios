@@ -8,11 +8,7 @@ It’s not great for viewing large files and it’s only meant for short content
 
 Run cat on different files and directories. Then try to cat multiple files. 
 
-## Quiz Question
+>>Q6:What's a good way to see the contents of a file?<<
 
-What's a good way to see the contents of a file?
-
-## Quiz Answer
-
-===cat
+=== cat
 

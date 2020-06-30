@@ -32,9 +32,6 @@ You can remove a directory with the rmdir command.
 <li>Remove that file.</li>
 </ol>
 
-## Quiz Question
+>>Q12:How do you remove a file called myfile?<<
 
-How do you remove a file called myfile?
-
-## Quiz Answer
-===rm
+=== rm

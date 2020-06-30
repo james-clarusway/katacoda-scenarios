@@ -10,10 +10,6 @@ Try it out on a few commands to get more information about them.
 
 Run the man command on the ls command.
 
-## Quiz Question
+>>Q14:How do you see the manuals for a command?<<
 
-How do you see the manuals for a command?
-
-## Quiz Answer
-
-===man
+=== man

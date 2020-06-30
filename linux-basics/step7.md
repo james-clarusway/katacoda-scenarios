@@ -9,10 +9,6 @@ It is used to create a file without any content. The file created using touch co
 
 Run the file command on a few different directories and files and note the output.
 
-## Quiz Question
-
-What command can you create a file?
-
-## Quiz Answer
+>>Q7: What command can you create a file?<<
 
 ===touch
