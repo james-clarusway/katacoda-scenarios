@@ -8,4 +8,4 @@ Git is a more or less an industry standard and is an integral part of the Dev in
 
 # What is GitHub?
 
-Ah, an important distinction. While learning this stuff, newcomers might confuse the two since they're so often used in conjunction. Simply put, GitHub is a hub for git. A cloud-based platfrom based around the git tool. Things like add, commit, log and so on are git commands while forks and pull requests are GitHub operations. 
+While learning this stuff, newcomers might confuse the two since they're so often used in conjunction. Simply put, GitHub is a hub for git. A cloud-based platfrom based around the git tool. Things like add, commit, log and so on are git commands while forks and pull requests are GitHub operations. 
