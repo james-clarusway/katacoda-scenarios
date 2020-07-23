@@ -1,1 +1,1 @@
-You've completed your first Clarus scenario!
+You've completed your first Katacoda scenario!
