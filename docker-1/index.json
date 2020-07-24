@@ -38,6 +38,6 @@
 			"text": "finish.md"
 		}
 	},
-	"title": "Docker container",
+	"title": "Clarus Lab:Docker container",
 	"description": "In this exercise a Docker image will be pulled and started as container."
 }
