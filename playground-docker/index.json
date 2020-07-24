@@ -1,0 +1,16 @@
+{
+    "live": false,
+    "pathwayTitle": "",
+    "title": "Docker Playground",
+    "backend": {
+        "port": 9090,
+        "imageid": "docker-swarm"
+    },
+    "environment": {
+        "showdashboard": true,
+        "dashboard": "Portainer UI",
+        "uilayout": "demo",
+        "hideintro": true,
+        "hidefinish": true
+    }
+}
