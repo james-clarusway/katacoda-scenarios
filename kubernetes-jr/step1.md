@@ -8,5 +8,3 @@ which will be used to build a container image for this application.
 #### DockerSite & KubeSite
 
 The sites tabs will display your website once it is up and running.
-
-[0]: https://gohugo.io/
